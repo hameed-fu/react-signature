@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application using Vite and the `react-signature-canvas` library for capturing digital signatures.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hameed-fu/react-signature
+   cd react-signature
+## Project Preview
+
+Here’s a preview of the signature canvas:
+#### Example 1
+![React Signature Canvas Preview](./public/sign.gif)
+#### Example 2
+![React Signature Canvas Preview](./public/sign1.png)

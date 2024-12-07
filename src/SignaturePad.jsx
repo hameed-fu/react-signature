@@ -17,7 +17,7 @@ const SignaturePad = () => {
 
   return (
     <div className="signature-container">
-      <h2>React Signature Canvas</h2>
+      <h2>Signature Pad</h2>
       <SignatureCanvas
         ref={sigCanvas}
         penColor="black"
